@@ -5,23 +5,34 @@ Seattle datasets:
 
 
 Questions to answer in this analysis:
-
 1. Calendar Dataset:
-When is Seattle Airbnb peak season?
-Which month is best to rent an Airbnb?
-What day is best to rent an Airbnb?
-How many days out of a year is Airbnb booked in Seattle as a host?
-How much do Airbnb hosts make in Seattle?
+
+ A. When is Seattle Airbnb peak season?
+
+ B. Which month is best to rent an Airbnb?
+
+ C. What day is best to rent an Airbnb?
+
+ D. How many days out of a year is Airbnb booked in Seattle as a host?
+
+ E. How much do Airbnb hosts make in Seattle?
 
 2. Reviews Dataset:
-How many times of reviews does an Airbnb in Seattle receive
+ A. How many times of reviews does an Airbnb in Seattle receive?
 
 3. Listings Dataset:
-What distribution is the host cancelation policy?
-What distribution is the host response time?
-What property type of Airbnb is popular in Seattle?
-Where is the popular area for Airbnb in Seattle?
-Which district should you look for Airbnb in Capitol Hill?
-What price is Airbnb in Capitol Hill?
-What featues are important to predict Airbnb price?
-How to predict Airbnb price?
+ A. What distribution is the host cancelation policy?
+
+ B. What distribution is the host response time?
+
+ C. What property type of Airbnb is popular in Seattle?
+
+ D. Where is the popular area for Airbnb in Seattle?
+
+ E. Which district should you look for Airbnb in Capitol Hill?
+
+ F. What price is Airbnb in Capitol Hill?
+
+ G. What featues are important to predict Airbnb price?
+
+ H. How to predict Airbnb price?
